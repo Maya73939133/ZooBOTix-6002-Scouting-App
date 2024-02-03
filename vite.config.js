@@ -26,7 +26,7 @@ export default defineConfig({
       includeAssets: ["assets/*", "icons/*"],
       manifest: {
         name: "ZooBOTix Scouting",
-        short_name: "Scouting",
+        short_name: "6002 Scouting",
         description: "A scouting app by FRC Team 6002 (initial program developed by team 2834)",
         theme_color: "#fc8617",
         background_color: "#fc8617",
