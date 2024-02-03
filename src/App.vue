@@ -24,7 +24,7 @@ onErrorCaptured(obj => {
 :root {
   --text-color: #000000;
   --bg-color: #fc8617;
-  --button-color: #f20a0a;
+  --button-color: #fcfcfc;
   --input-color: #f20a0a;
 }
 
