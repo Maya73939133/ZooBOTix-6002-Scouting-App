@@ -25,7 +25,7 @@ onErrorCaptured(obj => {
   --text-color: #000000;
   --bg-color: #fc8617;
   --button-color: #f20a0a;
-  --input-color: #1c1c1c;
+  --input-color: #f20a0a;
 }
 
 * {
