@@ -39,7 +39,7 @@ img {
 }
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Tahoma, Trebuchet MS, sans-serif;
   background-color: var(--bg-color);
   margin: 0;
 }
