@@ -1,5 +1,5 @@
 <template>
-  <h1>Welcome!</h1>
+  <h1>Welcome to ZooBOTix Scouting!</h1>
   <h2>Please choose a form.</h2>
   <ul v-if="list.length > 0" class="link-list">
     <li v-for="[i, name] of list.entries()" :key="i">
